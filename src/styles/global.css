@@ -46,9 +46,5 @@ nav a:hover {
 footer p{
   text-align: center;
   color: #bbb;
-  margin: 40px 0;
-  position: fixed;
-  bottom: 0;
-  left: 50%;
-  transform: translateX(-50%);
+  margin: 40px auto;
 }
